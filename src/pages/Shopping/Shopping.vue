@@ -65,6 +65,7 @@
     .car_content
       width 100%
       padding-top 15px
+      height 600px
       .service
         font-size 12px
         color #666
